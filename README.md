@@ -1,14 +1,12 @@
-its a lot easier to show it working than explain what/how..
 click here for the [demo](http://joat.es/n3d-controller)
-click and drag to move the white object :)
 
 > forked from original code by Jerome Etienne.
 > https://github.com/jeromeetienne/virtualjoystick.js
 >
-> inspired by an original implementation by Seb Lee-Delisle.
+> which was inspired by this from Seb Lee-Delisle.
 > http://sebleedelisle.com/2011/04/multi-touch-game-controller-in-javascripthtml5-for-ipad/
 
-a virtual joystick for touchscreen.
+it's a virtual joystick for touchscreen.
 
 * ```opts.container``` is the
 [dom element](https://developer.mozilla.org/en/DOM/element)
