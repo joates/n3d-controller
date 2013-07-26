@@ -1,4 +1,4 @@
-click here for the [demo](http://joat.es/n3d-controller)
+click here for the [demo](http://joat.es/n3d-controller/touch)
 
 > forked from original code by Jerome Etienne.
 > https://github.com/jeromeetienne/virtualjoystick.js
