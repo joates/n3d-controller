@@ -1,3 +1,7 @@
+its a lot easier to show it working than explain what/how..
+click here for the [demo](http://joat.es/n3d-controller)
+click and drag to move the white object :)
+
 > forked from original code by Jerome Etienne.
 > https://github.com/jeromeetienne/virtualjoystick.js
 >
